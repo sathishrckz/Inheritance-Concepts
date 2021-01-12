@@ -1,0 +1,9 @@
+1] The Composition is a design technique to implement HAS-A relationship
+
+2] Composition is achieved by instance (Class level) variable that refers to other objects
+
+3] Composition Definition: If an object contains other objects, and the object cannot exist without the contained object, then that is called composition
+
+4] Composition Def2: way of describing reference between Two or more classes using Instance variable
+
+5] Multiple inheritance is not supported in Java, but it can be achieved using Composition

@@ -1,0 +1,16 @@
+1.] Inheritance - Concept of using the code which is written in another class
+
+2.] Based on the relationship between two classes , we can select the type of relationship required between the two classes 
+i.e., A) Aggregation B) Composition 
+
+3.] If the relationship between parent and child class is kind of IS-A relationship, then "Aggregation" is suitable
+
+4.] If the relationship is kind of HAS-A relationship, then "Composition" is suitable
+
+5.] "extends" is the keyword in inheritance aggregation relationship
+
+6.] Parent class constructor can't inherited at child class, Instead of that, super method with same variables is created to access it.
+
+7.] Super class members with Default access is accessible in the child class, only if the parent and child are from same package
+
+8. private variables from super class is accessible through public getters and setters
